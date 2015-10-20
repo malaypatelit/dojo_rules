@@ -6,3 +6,4 @@ My favorite code School path in your introduction is JavaScript.
 * JSP
 * Javascript
 * Spring
+* Killing history using git rebase
