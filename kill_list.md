@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Proper function/method names
 * Unreachable code blocks
+* Avoid break statements
