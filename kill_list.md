@@ -4,4 +4,7 @@ Kill List
 * Functions with side effects
 * Unformatted code
 * Repeated code blocks
-* Bad variable names 
+* Bad variable names
+* Proper function/method names
+* Unreachable code blocks
+* Avoid break statements
